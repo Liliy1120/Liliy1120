@@ -2,7 +2,7 @@
 
 <!--
 **Liliy1120/Liliy1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+!-->
 
 
 <div id="header" align="center">
@@ -10,19 +10,26 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  
+ <a href="https://www.linkedin.com/in/liliana-emfinger/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+
 </div>
 
-Here are some ideas to get you started:
+<img src="https://komarev.com/ghpvc/?username=Liliy1120&style=flat-square&color=blue" alt=""/>
+
+### :woman_technologist: About Me :
+
+👋🏽 Hi, my name is Liliana
+
+🎓 Grad of Flatirons Data Science Boot camp (October 2022). I'm currently attending National university to recieve my Masters in Computer Science Grad: Febuary 2024
+
+🌇 Southern California Native, with a passion for analyzing data and telling its story so that it helps grow your business
+
+💻 I’m a Data Analyst, Engineer and Educator. I have always been very analytical and love to know the "how" and "why" of everything! I love what technology has and can do to change the world 🌎 or even just one life at a time, Medical tech to Educational tech. We are all users yet struggle to really capture what end users need. I have studied UX design and would like to use my knowledge in UX, analytical, and engineering skills to solve problems using data. After all data tells a story! 
+
+💪🏽 My skills involve communicating and educating small and large groups, analyzing data to make informed decisions, data cleaning and data visualization, Pandas, NumPy, Matlotlib/Seaborn for Data Visualization, Git/GitHub, SQL, Accessing Data through APIs, and Web Scraping. 
+
+🏔 Other than being a student you can find me hanging out with my husband and fur babies, or serving at church. 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: Please only reach out to me via LinkedIn
